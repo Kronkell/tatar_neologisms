@@ -1,5 +1,5 @@
-# Title
-Controllable Generation and Ranking of Tatar Lexical Alternatives for Russian Loanwords with Morphological Constraints and Native Speaker Preferences
+# Controllable Generation and Ranking of Tatar Lexical Alternatives for Russian Loanwords with Morphological Constraints and Native Speaker Preferences
+
 <!-- Change `kisnikser/m1p-template` to `intsystems/your-repository`-->
 [![License](https://badgen.net/github/license/Kronkell/tatar_neologisms?color=green)](https://github.com/Kronkell/tatar_neologisms/blob/main/LICENSE)
 [![GitHub Contributors](https://img.shields.io/github/contributors/Kronkell/tatar_neologisms)](https://github.com/Kronkell/tatar_neologisms/graphs/contributors)
