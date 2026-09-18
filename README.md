@@ -1,10 +1,10 @@
 # Title
-
+Controllable Generation and Ranking of Tatar Lexical Alternatives for Russian Loanwords with Morphological Constraints and Native Speaker Preferences
 <!-- Change `kisnikser/m1p-template` to `intsystems/your-repository`-->
-[![License](https://badgen.net/github/license/kisnikser/m1p-template?color=green)](https://github.com/kisnikser/m1p-template/blob/main/LICENSE)
-[![GitHub Contributors](https://img.shields.io/github/contributors/kisnikser/m1p-template)](https://github.com/kisnikser/m1p-template/graphs/contributors)
-[![GitHub Issues](https://img.shields.io/github/issues-closed/kisnikser/m1p-template.svg?color=0088ff)](https://github.com/kisnikser/m1p-template/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr-closed/kisnikser/m1p-template.svg?color=7f29d6)](https://github.com/kisnikser/m1p-template/pulls)
+[![License](https://badgen.net/github/license/Kronkell/tatar_neologisms?color=green)](https://github.com/Kronkell/tatar_neologisms/blob/main/LICENSE)
+[![GitHub Contributors](https://img.shields.io/github/contributors/Kronkell/tatar_neologisms)](https://github.com/Kronkell/tatar_neologisms/graphs/contributors)
+[![GitHub Issues](https://img.shields.io/github/issues-closed/м?color=0088ff)](https://github.com/Kronkell/tatar_neologisms/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr-closed/Kronkell/tatar_neologisms.svg?color=7f29d6)](https://github.com/Kronkell/tatar_neologisms/pulls)
 
 <table>
     <tr>
@@ -30,7 +30,14 @@
 
 ## Abstract
 
-TODO
+This project investigates controllable generation and ranking of Tatar lexical alternatives for Russian loanwords.
+
+The proposed approach combines candidate generation with language-specific morphological and phonological constraints and human preference data. Multiple candidate alternatives are generated for a given Russian loanword and filtered according to linguistic constraints. The remaining candidates are evaluated by native speakers through pairwise preference comparisons and ranked using statistical preference models.
+
+The project aims to study whether linguistic constraints and measurable properties of candidate words can improve the generation and ranking of natural-sounding lexical alternatives. Particular attention is paid to morphological structure, phonological naturalness, semantic similarity, and their relationship to native-speaker preferences.
+
+Tatar is used as a low-resource language case study, while the proposed methodology is designed to be applicable to other languages and lexical replacement tasks.
+
 
 ## Citation
 
