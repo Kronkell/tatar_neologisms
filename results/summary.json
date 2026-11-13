@@ -1,0 +1,33 @@
+{
+  "runtime_sec": 81.5,
+  "n_groups": 40,
+  "n_candidates": 8,
+  "n_features": 5,
+  "utility_scale": 2.0,
+  "rhos": [
+    0.1,
+    0.3,
+    0.5,
+    0.7,
+    0.9
+  ],
+  "budgets": [
+    0.5,
+    1,
+    2,
+    4,
+    8,
+    16,
+    32
+  ],
+  "n_seeds": 20,
+  "lambda_grid": [
+    0.03,
+    0.1,
+    0.3,
+    1.0,
+    3.0,
+    10.0
+  ],
+  "main_rho": 0.5
+}
